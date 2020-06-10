@@ -6,3 +6,4 @@ Iam trying to make a quora like website using djnago,parallelly learning related
 
 
 1st-commit: added less front end styling ,anyone can answer  anyone can comment without need to logging in.
+# quora-clone
